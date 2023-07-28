@@ -1,0 +1,142 @@
+<HTML><HEAD>   <TITLE>Breuer Data</TITLE> </HEAD>
+<LINK REL="SHORTCUT ICON" HREF="cat.ico">
+<style><!--A{text-decoration:none;font-weight:bold;}--></style>
+<BODY  BGCOLOR="#eeeeee" TEXT="#333333"LINK="#000000"  ALINK="#000000" VLINK="#000000"><P>
+
+
+
+<font face="Palatino"> <P>
+
+ <h1>Branching data for curves up to genus 48</h1>   
+
+ 
+This project arose from my work decomposing Jacobian varieties of
+ curves since in that  work I needed to know the generating vectors for a given
+ group acting on a curve.  Thomas Breuer had programs which computed this
+ information, but he did not record it with data he generated from those programs. I have added functionality to his
+ program to record these generating vectors, and run the programs in Magma
+ and GAP up to genus 48.  The data for these generating vectors is below.    <br><br>
+
+The details of this project may be found in this writeup 
+    <a href="Monodromy/branchingdatadesc.pdf"> [pdf]</a> and   also posted on
+   <a href="http://arxiv.org/abs/1512.07657"> ArXiV</a>. <br><br>
+ 
+ I have no plans to publish this work, as it is just a
+ modification of Breuer's original work.  If you use the generating vector data, you can cite this page or the ArXiV
+ page mentioned above.  I would love to hear from you if you use it.  <br><br>
+ 
+
+
+Finally, thank you to Thomas Breuer for giving me permission to repost
+this data. <br> <br>
+<hr WIDTH="100%">
+
+<h2>Code</h2>
+
+Breuer's code, translated to Magma and modified to print generating vectors. <br>
+
+<i>Last Modified: May 10, 2016</i><br>
+<a href="Monodromy/genvectors.m">genvectors.m</a>  <br><br>
+
+
+My code to read the data into Magma, or search the data for specific types
+of examples.   <br>
+
+
+<i>Last Modified: April 24, 2016</i><br>
+
+<a href="Monodromy/searchroutines.m">searchroutines.m</a>  <br><br>
+<hr WIDTH="100%">
+
+<h2>Groups and Signatures only</h2>
+
+This file gives the list of groups and signatures for all genus from 2 to
+48, except two curves of genus 46 of size 2160.  It is simply a compliation of data Breuer created,
+updated for the larger current Magma or GAP databases. <br>
+
+
+<i>Last Modified: December 23, 2015</i><br>
+
+
+<a href="Monodromy/groupsignaturedata">groupsignaturedata</a> (2.7 MB)<br
+>
+<br><hr WIDTH="100%">
+
+<h2>Magma: large groups</h2>
+
+For genus <it>g</it> from 2 to 48, this gives the generating vectors for all groups
+of order greater than <it>4(g-1)</it> (again except for the genus  46
+examples of size  2160).  <br>
+
+<i>Last Modified: December 23, 2015</i><br>
+
+
+<a href="Monodromy/GenVectMagma-LargeGps.tar.gz"> GenVectMagma-LargeGps</a>
+(2.5 MB zipped)<br><br>
+
+<b> WARNING</b>: This data was computed using Magma V2.19-9. Changes in newer versions of Magma mean that in a couple of cases
+an error may be returned. I am working on a permanent fix, but in the short term, if you run into an error and are
+running a newer verion of Magma, email me
+and I can give you a workaround. Thanks to  Michela Artebani and her student, Cristian Monsalve,  at Universidad de Concepcion for
+pointing out the issue.   <br><br>
+
+In genus 46 there is are two groups acting on curves of this genus but which
+are beyond the size of the SmallGroup database.  Their information is
+recorded here.<br>
+
+
+<a href="Monodromy/g46_2160"> g46_2160</a><br><br>
+
+ <hr WIDTH="100%">
+
+<h2>Magma: complete data for genus 2 through 20</h2>
+
+
+For genus <it>g</it> from 2 to 20, this gives the generating vectors for all
+groups.  <br> 
+
+<i>Last Modified: May 16, 2016</i><br>
+
+<a href="Monodromy/GenVectMagmaToGenus20.tar.gz">GenVectMagmaToGenus20</a> (44.0 MB zipped) <br><br>
+
+<b>WARNING</b>: See the warning under the previous section.<br><br>
+
+
+
+<hr WIDTH="100%">
+
+<h2> GAP: full data to genus 40  </h2>
+
+This is the full data for GAP.  Currently up to genus 40, except genus 33. <br>
+<i>Last Modified: December 23, 2015</i><br>
+
+<a href="Monodromy/GenVectGAP.tar.gz">GenVectGAP</a> (40.9 MB zipped)<br><br> 
+
+
+ <hr WIDTH="100%">
+
+<h2>Magma: other available versions </h2>
+
+Full data for higher genus is available upon request.<br><br>
+
+ 
+
+<hr WIDTH="100%">
+
+
+
+
+
+<a href="index.html">Back</a> <br><br>
+
+
+<font size=-1>Last Updated: May 31, 2016</font>
+
+</body></html>
+
+
+
+
+
+
+
