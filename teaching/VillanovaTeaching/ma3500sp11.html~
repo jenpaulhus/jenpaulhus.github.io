@@ -1,0 +1,203 @@
+<html><head><title>Math 321 Foundations of Abstract Algebra</title>
+
+<style><!--A{text-decoration:none;font-weight:bold;}--></style></head>  <BODY  BGCOLOR="#eeeeee" TEXT="#333333"LINK="#000000"  ALINK="#000000" VLINK="#000000"> <!--<body  BGCOLOR="#ffffff" TEXT="#000000" LINK="#FF6600"  ALINK="#FF6600" VLINK="#FF6600">--> <a name="top">  <center>  <Font color="#003399">
+<h2>Math 321 Foundation of Abstract Algebra</h2> <h3></font>Fall 2011<br> </h3> 
+ MWF 1:15 AM - 2:05 PM  in FILL <br><br><br>
+
+<a href=#info>Course Information</a> -----  <a href="#hw">Homework</a> ----- <a href="#exams">Exams</a> </center>
+ <hr WIDTH="100%"> </center>
+<a name="info"></a>
+
+
+
+
+<Font color="#003399"> <h2>Course
+    Information</h2></FONT> <b>Instructor</b>: Prof. Jen
+Paulhus<br> <b>Office Hours</b> FILL   <br> <b>Office</b>: 2220 Noyce <br>
+
+<b>e-mail</b>: <a href="mailto:jennifer.paulhus@villanova.edu">jennifer [dot] paulhus [at] villanova [dot] edu</a><br> 
+<b>web site</b>: <a href="http://www.csc.villanova.edu/~jpaulhus/teaching/ma3500sp11.html">http://www.csc.villanova.edu/~jpaulhus/teaching/ma3500sp11.html</a>
+
+<br> <b>Text</b>: <i>Contemporary Abstract Algera</i>, Joseph Gallian<br>
+
+<b>Syllabus</b>:  We will cover many  topics in Parts I, II, and III of the book.  Click <a href="ma3500sp11classlist.html" target="_blank">here</a> for a daily list of material covered. A pdf version of the syllabus may be found <a href="sylma3500sp11.pdf">here</a>.<br><br>
+
+
+<Font color="#003399"><b>Grading</b></font>
+<Li><i>Homework</i>:  Homework assignments will be due <i>at the beginning of class</i> on Fridays.  Assignments will be listed below. No late homework will be accepted but I will drop your lowest homework score. Homework is 33% of your grade.</Li>
+
+<LI><i>Exams</i>:  There will be two in-class exams, on  <b>February 21</b> and <b>April 4.</b> The two exams will be 17% each.</LI>
+
+
+<LI><i>Final</i>:  There will be a final which will count for 33% of your grade.  The final exam is <b>Wednesday, May 4</b> from  10:45 AM - 1:15 PM. Do not make plans to go home early.</LI><br>
+
+
+
+
+<Font color="#003399"><b>Some notes</b></font>
+<LI>Your final grade in this course will reflect your performance throughout the whole semester.  Except for a possible bonus question on the exams and an occasional challenge homework problem, there will be no extra credit and you cannot retake an exam nor redo homework.</LI>
+ <LI> Make sure you are familiar with the <a href="http://www.villanova.edu/vpaa/office/facultyservices/policies/integrity/code.htm" target="_blank"> Academic Integrity Code</a>. Any violations of it will result in an automatic zero for that assignment or exam.
+  <LI> I encourage you to  work together to solve homework problems  but everyone must write their own solutions. Any copied problems on these assignments  will result in a zero for the whole assignment. </LI>
+<Li> No makeup exams will be given unless agreed to beforehand.</LI>
+<LI> Cell phone or computer usage is strictly prohibited during class. </LI>
+<LI> There are a few basic courtesies I expect from my students:  please show up on time,  please do not leave in the middle of class unless it is an emergency, and please keep conversations among yourselves during class to an absolute minimum.
+  </LI>
+<LI> Any student with a disability who needs special accommodations or other assistance in this course should make an appointment to speak with me as soon as possible. </LI>
+
+<br>
+
+
+<Font color="#003399"><b>Unsolicited Advice</b></font>
+
+<LI> You're not in calculus anymore. "Plug and Chug" or just mindlessly following in-class examples won't cut it. One major goal of the class is to teach you how to think about the problems and explain your solutions like a mathematician. Like any new subject, this requires learning the language we use and the conventions for explaining our work. The best way to do this is to practice, practice, practice. </lI>
+<LI> Whenever you can, read ahead in the material.  A list of planned topics for future classes will be regularly updated above. </lI>
+<LI> Most of you will be challenged a lot during the semester. Be prepared to not "get" everything right away. </li>
+<li>Work together when you can. </li>
+<li> If you are struggling, come to see me early. If you wait until a week before the final, there isn't much I can do to help you. </lI>
+
+<!-- <li> Think of math a bit like learning how to bowl.  You can have someone explain to you how to throw the ball and how to put spin on it to make it hit the pins but chances are the first time you throw the bowling ball, you will throw a gutter ball.  How do you improve at bowling?  You practice.  Same thing is true in math.  The best way to learn math is to <b>practice, practice, practice</b>.-->  </li>
+  <br><br>
+
+
+
+<hr WIDTH="100%">
+
+
+<a name="hw"></a>
+<Font color="#003399"> <h2>Homework</h2></FONT>
+
+
+Homework assignments are due <i>at the beginning </i> of the class date listed below. If you work with others on the homework, list their names at the top of the page.  This is purely for bookkeeping purposes and will not affect your score whatsoever.<br> <br>
+
+
+The grading rubric for homework and some guidelines may be found <a href="rubricma3500sp11.pdf">here</a>.  <br><br>
+
+<table border="0">
+ <tr bgcolor="#666666">
+      <td><b>HW</b>&nbsp;</td>
+ <td><b>Due date</b></td>
+      <td><b><center>Assignment</center></b></td> <td> <a href="ma3500challenge.html">Challenge Problem</a> </td>
+   </tr> 
+    
+        <tr  bgcolor="#999999">
+      <td># 1   </td>
+  <td>Jan. 21     </td> 
+      <td> <b>Ch. 2</b>  pg. 52-55 # 4, 11, 14, 18, 28 &nbsp;  &nbsp;  &nbsp;     <b>Ch. 0</b>  pg. 21-25 # 1, 2, 8, 52, 53 </td>
+ <td> </td>
+   </tr>
+
+    <tr >
+      <td># 2 </td>
+      <td>Jan. 28</td>
+      </td> 
+      <td>  <b>Ch. 0</b> pg. 21-25 # 15, 20, 21,  56, &nbsp;  &nbsp;  &nbsp;    <a href="ma3500hw2extra.pdf", target="_blank" >Extra Problems</a> </td><td><center> &#x2713 </center>  </td>  
+   </tr>
+
+
+    
+      <tr  bgcolor="#999999">
+      <td># 3   </td>
+  <td> Feb. 4   </td> 
+      <td>  <b>Ch. 0</b> pg. 21-25 #     13,  17,  18, 23,   31            </td>
+ <td>  </td>  
+   </tr>
+
+    <tr >
+      <td># 4 </td>
+      <td>Feb. 11</td>
+      <td> <b>Ch. 1</b>  pg. 35-38 #2, 3,  &nbsp;  &nbsp;  &nbsp;     <b>Ch. 2</b>  pg. 52-55 #  8, 10, 21,  34   &nbsp;  &nbsp;  &nbsp;     <b>Ch. 3</b> pg. 64-69 # 1, 6, 16, 18 </td>  
+      <td><center> &#x2713 </center>  </td>  
+   </tr>
+   
+   
+   <tr  bgcolor="#999999">
+      <td># 5   </td>
+  <td> Feb. 18.   </td> 
+      <td>   <b>Ch. 3</b>  pg. 64-69 #20, 23, 32,  &nbsp;  &nbsp;  &nbsp;     <b>Ch. 4</b>  pg. 81-86 #  4, 10, 18, 32, 40, 60             </td>
+ <td><center> &#x2713 </center>  </td>  
+   </tr>
+
+   <tr >
+      <td># 6 </td>
+      <td>Mar. 11</td>
+      <td>    <b>Ch. 5</b>  pg. 113-117 # 2, 3, 12, 13 </td>  
+      <td>  </td>  
+   </tr>
+  
+  
+  
+   <tr  bgcolor="#999999">
+     <td> #7      </td>
+  <td> Mar. 18  </td> 
+      <td>    <b>Ch. 8</b>  pg. 167-170 #2, 3, 6, 7, 14   &nbsp;  &nbsp;  &nbsp;     <b>Ch. 6</b>  pg.  133-136 #5      </td>
+        <td><center> &#x2713 </center>  </td>  
+      </tr>
+      
+      
+        <tr >
+      <td># 8 </td>
+      <td>Mar. 25</td>
+      <td>    <b>Ch. 6</b>  pg. 133-136 #8, 10, 15, 25, 34 </td>  
+      <td>  </td>  
+   </tr>
+  
+  
+  
+   <tr  bgcolor="#999999">
+     <td># 9 <br>   </td>
+  <td> Apr. 1 </td> 
+  <td>         <b>Ch. 10</b>  pg. 211-215 #2, 9   &nbsp;  &nbsp;  &nbsp;     <b>Ch. 7</b>  pg.  149-152 #2, 8, 14, 15, 26           </td>
+      <td>                              </td>
+    </tr>  
+
+
+    <tr >
+      <td># 10 </td>
+      <td>Apr. 15</td>
+      <td>   <b>Ch. 9</b>  pg. 193-198 #2, 4, 7, 9, 16, 43   &nbsp;  &nbsp;  &nbsp;     <b>Ch. 10</b>  pg.  211-215 #46 </td>  
+      <td><center> &#x2713 </center>  </td>  
+   </tr>
+  
+  
+  
+      <tr  bgcolor="#999999">
+     <td>  #11 </td>
+  <td>  Apr. 27 </td>
+   <td>     <b>Ch. 12</b>  pg. 242-245 #6, 18   &nbsp;  &nbsp;  &nbsp;     <b>Ch. 13</b>  pg.  255-258 #4, 16, 20&21, 38        &nbsp;  &nbsp;  &nbsp;     <b>Ch. 14</b> pg.  269-273 #6, 21, 27         </td>
+      <td><center>&#x2713  </center>  </td>  
+   </tr>
+  
+
+
+
+</table><br>
+
+
+
+<a href=#top>Up</a>
+
+
+
+<hr WIDTH="100%">
+
+
+<a name="exams"></a>
+
+<Font color="#003399"> <h2>Exams</h2></FONT>
+Exams will be given in-class on the two Mondays mentioned above.  The exams will be closed books, closed notes, etc.
+
+<br><br>
+
+The exam will have three types of questions:  (1) definitions, (2) simple computations or direct applications of a theorem from class,  and (3) problems that require combining several results or definitions from class. <br><br> 
+
+
+A list of topics we have covered in the course to study for the final is <a href="ma3500finalmaterial.html" target="_blank">here</a>.<br><br>
+
+<a href=#top>Up</a> <br><br>
+
+<font size=-1>Last Updated:  April 27, 2011</font>
+
+</BODY></HTML>
+
+
+

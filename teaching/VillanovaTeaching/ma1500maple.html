@@ -1,0 +1,142 @@
+<html><head><title>Math 1500 Calculus I--Maple Commands</title>
+
+ <style><!--A{text-decoration:none;font-weight:bold;}--></style></head>  <BODY  BGCOLOR="#eeeeee" TEXT="#333333" LINK="#000000"  ALINK="#000000" VLINK="#000000"> 
+
+<!--<body  BGCOLOR="#ffffff" TEXT="#000000" LINK="#FF6600"  ALINK="#FF6600" VLINK="#FF6600"> <a name="top">  -->
+
+  <center>  <Font color="#003399"><h2>Maple Commands</h2> <br></font></center>
+
+
+
+
+
+<!-- <a name="hw"></a>  -->
+<Font color="#003399"> <h3>If Something Goes Wrong</h3></FONT>
+
+<OL><LI> Hit "Enter" again  on any command lines to make sure Maple's computer knows how everything is defined.</LI><br>
+
+<LI> Go back and check that you have typed everything EXACTLY correctly.  Even one missing symbol can create a big error.</LI><br>
+
+<LI>Save your work and quit Maple and then restart Maple.  Once you reopen the file, make sure you hit "Enter" on all command lines before proceeding from where you left off. </LI><br>
+
+<LI> E-mail me with the commands you typed and what is going wrong. Make sure you include the commands EXACTLY as you typed them.</LI>
+
+</OL><br>
+
+<hr WIDTH="100%">
+
+
+<Font color="#003399"> <h3>Common Errors</h3></FONT>
+<UL><LI> Any error with the word "delimiter" in it means your parentheses don't match up.  </LI><br>
+<LI> Did you enter "e" correctly from the Expressions Tab?  What about "Pi"?  What about sin(x) with parentheses around it? </LI><br>
+<LI>  If your plot is showing up empty, it usually means there is something wrong with the way you defined the function or the data.</LI>
+</UL>
+<br>
+
+<hr WIDTH="100%">
+
+<Font color="#003399"> <h3>Basic  Commands</h3></FONT> 
+
+<UL><b>Defining a Function </b><br>
+
+     To define a function we need to tell  Maple the name of the function (f, g, A, etc.), the name of the variable (x,t, etc.), and the equation defining the function. We do this as follows:<br><br>
+     
+ <center>    <i>function name</i> := <i>variable name </i> -> <i>equation</i></center><br><br>
+ 
+ So to define f(x)=x^3+1  we type <i>f := x -> x^3+1 </i>. <br>
+ 
+ To define A(t)=sin(t) +4 we type <i>A :=t -></i>sin<i>(t)+4</i>. <br><br>
+ 
+ We can also use the "Expression" Tab on the left side of the Maple window to input many different symbols from superscripts to subscripts to trig functions to log functions.
+</UL><br>
+
+
+<UL><b> Defining Data/List of Ordered Pairs </b><br>
+
+To define data (usually a list of ordered pairs) we need to tell Maple the name of the data and then input the data, as pairs, between left and right brackets.  We do this as follows:<br><br>
+
+<center> <i>data name</i>:=[  [<i>1st term of first point</i>, <i>2nd term of first point</i>] , [<i>1st term of second point</i>, <i>2nd term of second point</i>], . . . ] </center><br><br>
+
+So to define the data set called   DATA  which has points [0,1], [1,2], [5,3], [6,1] we would type:<br>
+<i>DATA:=[  [0,1], [1,2], [5,3], [6,1]  ] </i>
+
+
+
+
+</UL><Br>
+
+<UL><b><i> plot</i></b><br>
+
+The plot command requires as input the name(s) of the items you would like to plot.   If there is more than one item, put the names of the items in squiggly parentheses { and }. <br><br>
+
+
+If we want to plot the function f we would type  <i> plot( f ) </i>. <br>
+
+If we want to plot the functions f, g, and h we would type <i> plot( { f, g, h } ) </i><br>
+
+If we want to plot the function f and the datapoints named DATA we would type <i> plot(f,data)</i>.<br><br>
+
+
+As optional additions to the command, you can restrict the domain and range on which you view the graph.  If you want to restrict to the interval [a,b] you enter a..b after the name of the function, with a comma between the name and the interval.  <br><br>
+
+So if we want to plot the function f with x values from -4 to 4 and y values from 0 to 20, we would type <i> plot(f,-3..3, 0..20) </i><br><br>
+
+
+If you are plotting data points it is usually best to add an optional command at the end:  <i>style=point</i>
+This will plot the points individually instead of trying to connect up the points.
+
+So if we want to plot DATA we would type  <i> plot(DATA,style=point) .</i>
+
+
+</UL><br>
+
+<UL> <i><b>evalf</b></i>  <br>
+
+Sometimes Maple  leaves a value in symbolic notation. There are reasons for this if we are doing advanced computations but it is not what we will usually want in this class.   For instance, if we enter <i> 17^(1/3)</i> for the cube root of 17  or <i>ln(17)</i> for the natural log of 17 Maple would just return  <i>17^(1/3)</i> or <i>ln(17).</i>  <br><br>
+
+If we want the numeric value of these expressions, we need to add the <i>evalf</i> command to the front of whatever expression we would like Maple to evaluate. <br><br>
+
+So if we want to find the numeric value of the cube root of 17 we type: <i>evalf(17^(1/3))</i> and if we want to find the numeric value of the natural log of 17 we type <i>ln(17)</i>. </ul> <br>
+
+
+
+
+<UL> <i> <b>subs</b></i> <br>
+
+This command will substitute one variable for another.  This will be useful when we are trying to find the inverse of a function in Maple.    The first input to the function is the variables you want to swap and the second input is the name of the function where you would like the swapping to occur. <br><br>
+
+If we want to place an x anywhere there is a  y in an equation named equation1 we would type <i> subs(x=y, equation1).</i><br>
+
+If we want to do the substitution concurrently (like we do when finding inverses) we put the substitutions in between { and  }.  So to swap x with y and y with x in equation1 we would type  <i> subs({x=y,y=x}, equation1).</i><br>
+</ul><br>
+
+
+
+
+
+<UL><i><b>solve</b></i><br>
+Maple can solve many equations for us.  This is the command we used to help us find an equation for the inverse of a function.   To solve the equation  "equation1"  for variable y we would type <i> solve(equation1, y).</i> 
+
+</Ul><br>
+
+<UL><i><b>surd</b></i><br>
+Maple treats cube roots and higher differently than we would like.  They find what is called the "principal" root and which is often a complex number (involving the value i).   To return a real nth root of a real number,  we use the command <i>surd</i>.   So to find a real nth root of an algebraic expression <i>blah</i> we type  <i>surd(blah,n)</i>. </UL><br>
+
+
+
+<UL><i><b>Finding Limits</b></i><br>
+
+We can use Maple to find limits of functions.  The limit symbol is under the "Expressions Tab".  Be sure to replace "a" with the value x is approaching  and to replace "f" with "f(x)" or whatever the name of the function is, including the variable name.<br><br>
+
+To evaluate limits as x approaches infinity, we replace "a" with the infinity symbol which can be found under the "Common Symbols" tab.<br><br>
+</UL><br>
+
+
+<hr WIDTH="100%"><br>
+
+<font size=-1>Last Updated: September 20, 2010</font>
+
+</BODY></HTML>
+
+
+
