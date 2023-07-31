@@ -1,0 +1,103 @@
+<head>
+  <style><!--A{text-decoration:none;}--></style>
+<title>Jen Paulhus: Teaching</title>
+<link href="../jen2.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+
+  <header>
+
+         Jen Paulhus, Ph.D.
+       </header>
+       <nav>
+
+         <ul>
+           <li ><a href="../index.html" accesskey="1" title="">Home</a></li>
+           <li><a href="../research" accesskey="2" title="">Research</a></li>           
+         <li class="active"><a href="#" accesskey="3" title="">Teaching</a></li>
+         
+        </ul>
+       </nav>
+
+<br>
+
+<section>
+
+<font size="small"><i>A certain toper drank one gill of rum every forenoon, and one in the afternoon, for 6 years; in
+    consequence of which, he died.  How many hogsheads did he drink?</i> <center>-An 1834 math textbook</center></font>
+
+<br><br>
+
+<section>
+
+<h3>Courses at Grinnell College (2011-present)</h3>
+
+<UL>
+<li>Math 131 <a href="GrinnellTeaching/ma131f21.html"  target="_blank"> Calculus I </a> </li>
+
+<lI>Math 133 <a href="GrinnellTeaching/ma133s21.html"  target="_blank"> Calculus II</a> </lI>
+
+<li>Math 195 <a href="GrinnellTeaching/ma195s20.html"  target="_blank"> Demystifying Mathematics </a></li>
+
+<li>Math 215 <a href="GrinnellTeaching/ma215f20.html" target="_blank">Linear Algebra </a></li>
+
+<LI>Math 218 <a href="GrinnellTeaching/ma218f21.html" target="_blank"> Combinatorics</a> </li>
+
+<lI>Math 218 <a href="GrinnellTeaching/ma218f22.html"  target="_blank">Elementary Number Theory</a> </lI>
+
+<lI>Math 321 <a href="GrinnellTeaching/ma321s20.html"  target="_blank">
+    Foundations of Abstract Algebra</a> </li>
+
+<li>Math 322 <a href="GrinnellTeaching/ma322s19.html" target="_blank"> Elliptic Curves</a></li>
+
+<li>Math 324 <a href="GrinnellTeaching/ma324s17.html"  target="_blank">Algebraic Number Theory </a></li>
+
+<LI>Math 326 Field Theory </li>
+
+<li> Math 444   <a href="GrinnellTeaching/ma444f20.html">Senior Seminar: Riemann Surfaces</a></li>
+
+<LI>Tutorial Almost Heaven: West Virginia </LI></UL>
+
+
+</section>
+
+
+<section>
+<h3>Courses at Villanova University (2010-2011)</h3> * indicates a graduate course. <br>
+<UL>
+<li>Math 1500: <a href="VillanovaTeaching/ma1500f10.html"  target="_blank"> Calculus I </a> </li>
+<LI>Math 3500: <a href="VillanovaTeaching/ma3500sp11.html"  target="_blank"> Modern Algebra I</a> </LI>
+<LI>Math 7770: <a href="VillanovaTeaching/ma7770sp11.html"  target="_blank"> Number Theory*</a> </LI>
+</UL>
+</section>
+
+
+<section>
+<h3>Courses at Kansas State University (2007-2010)</h3> * indicates a graduate course. <br>
+<UL>
+<li>Math 100: College Algebra </li>
+<li>Math 100: Studio College Algebra </li>
+<li>Math 160: <a href="KSUteaching/ma160f09.html" target="_blank" > Introduction to Contemporary Mathematics </a> </li>
+<li>Math 320: <a href="KSUteaching/ma320.html" target="_blank" > Mathematics for Elementary School Teachers </a> </li>
+<li>Math 510: <a href="KSUteaching/ma510f09.html" target="_blank">Discrete Math</a></li>
+<li>Math 704: <a href="KSUteaching/ma704su08.html" target="_blank">Introduction to the Theory of Groups*</a></li>
+<li>Math 997: <a href="KSUteaching/ma997ec.html" target="_blank">Topics in Number Theory, Elliptic Curves* </a></li></ul>
+
+
+    </section>
+
+    <section>
+
+<h3>Courses at the University of Illinois at Urbana-Champaign (2000-2007)</h3>  * indicates primary instructor
+<UL>
+<LI>Math 012: <A HREF="UIUCteaching/ma112.html" target="_blank">College Algebra*</A></LI>
+<LI>Math 103: <A HREF="UIUCteaching/ma203.html" target="_blank">Theory of Arithmetic </A></LI>
+<LI>Math 118: <A HREF="UIUCteaching/ma118.html" target="_blank">A Mathematical World*</a></LI>
+<LI>Math 134: <a href="UIUCteaching/ma134.html" target="_blank">Business Calculus*</a> (summer section) </li>
+<LI>Math 220: Calculus I  (recitation section) </LI>
+<li>Math 225: <a href="UIUCteaching/ma225.html" target="_blank">Introductory Matrix Theory* </a></li>
+<LI>Math 234: <a href="UIUCteaching/ma234.html" target="_blank">Business Calculus*</a> (large lecture) </li></UL>
+</section>
+
+    
+</body></html>
